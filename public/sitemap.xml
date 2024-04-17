@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dns/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dns-woes/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/routing/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2024-04-17T02:06:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/initial-post/</loc>
     <lastmod>2024-04-17T01:08:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/initial-post/</loc>
-    <lastmod>2024-04-17T01:08:52-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/initial_post/</loc>
     <lastmod>2024-04-17T01:08:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/introduction/</loc>
@@ -17,13 +35,7 @@
     <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2024-04-17T01:08:52-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/new_project/</loc>
-    <lastmod>2024-04-17T01:08:52-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-17T01:08:52-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/new-project/</loc>
     <lastmod>2024-04-17T01:08:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
