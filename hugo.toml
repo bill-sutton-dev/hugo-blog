@@ -1,0 +1,4 @@
+baseURL = 'https://billsutton.dev/'
+languageCode = 'en-us'
+title = 'bill-sutton.dev'
+theme = 'ananke'
