@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routing on bill-sutton.dev</title>
+    <link>http://localhost:1313/tags/routing/</link>
+    <description>Recent content in Routing on bill-sutton.dev</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2024 02:06:50 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/routing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS Woes</title>
+      <link>http://localhost:1313/posts/dns-woes/</link>
+      <pubDate>Wed, 17 Apr 2024 02:06:50 -0400</pubDate>
+      <guid>http://localhost:1313/posts/dns-woes/</guid>
+      <description>Why is it always a problem with DNS, these guides never show the eaisest solution and it is always annoying to me how I have to putts and trouble shoot with infrastructure items.</description>
+    </item>
+  </channel>
+</rss>

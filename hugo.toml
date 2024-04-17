@@ -1,4 +1,4 @@
-baseURL = 'https://billsutton.dev/'
+baseURL = 'https://billsutton.dev/hugo-blog/'
 languageCode = 'en-us'
 title = 'bill-sutton.dev'
 theme = 'ananke'
